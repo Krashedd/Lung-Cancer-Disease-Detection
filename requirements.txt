@@ -1,6 +1,0 @@
-streamlit
-torch==2.2.2
-torchvision==0.17.2
-timm
-ultralytics
-numpy==1.26.4
