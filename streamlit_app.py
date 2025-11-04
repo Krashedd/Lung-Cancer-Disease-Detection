@@ -7,6 +7,7 @@
 #
 # Inference settings: 448 letterboxed, no augmentations.
 
+import patch_opencv  # must be the first import
 import io
 import json
 from pathlib import Path
